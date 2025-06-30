@@ -76,3 +76,4 @@ D:\Blazor\learning_app\obj\Debug\net9.0\refint\learning_app.dll
 D:\Blazor\learning_app\obj\Debug\net9.0\learning_app.pdb
 D:\Blazor\learning_app\obj\Debug\net9.0\learning_app.genruntimeconfig.cache
 D:\Blazor\learning_app\obj\Debug\net9.0\ref\learning_app.dll
+D:\Blazor\learning_app\obj\Debug\net9.0\learning_app.sourcelink.json
